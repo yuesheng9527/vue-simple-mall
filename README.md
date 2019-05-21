@@ -1,5 +1,5 @@
-#这是一个牛逼的项目  
-# gshop
+#vue简单商城(移动端)
+http://yuesheng9527.gitee.io/vue_simple_mall
 
 > A Vue.js project
 
